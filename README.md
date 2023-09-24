@@ -1,6 +1,6 @@
 [![cicd](https://github.com/nogibjj/IDS706_Template_KM632/actions/workflows/python.yml/badge.svg)](https://github.com/nogibjj/IDS706_Template_KM632/actions/workflows/python.yml)
 
-MATRIX Testing: 
+## MATRIX Testing: 
 
 We tested with following three OSs for the following versions of python. 
 
@@ -16,8 +16,9 @@ We tested with following three OSs for the following versions of python.
         * 3.10 
         * 3.11
 
+![Alt Text](cicd.png)
 
-NOTE: 
+## NOTE: 
 
 This repo was cloned from a python template which has the following:
     * requirements.txt - lists out all the python libraries this program uses
@@ -30,7 +31,7 @@ This repo was cloned from a python template which has the following:
 
 
 
-The program:
+## MAIN program:
 
 This program analyzes dataset representing the education assistant program recepients. 
 
@@ -38,11 +39,11 @@ Since early 2000s Mongolain government started providing tuition assistant progr
 
 Recently, the high percentage of people who don't follow through with the contract obligation became a huge social issue in Mongolia. In this report, we take a look the what the mean, median of the student loan amounts were as well as the standard deviation
 
-Mean: $117,340.00
+        Mean: $117,340.00
 
-Median: $116,481.00
+        Median: $116,481.00
 
-Standard deviation: $54,692.00
+        Standard deviation: $54,692.00
 
 On average, the mongolian government have provided $117K assistant to a student, the standard deviation being close to $55K.
 
