@@ -1,4 +1,4 @@
-[![cicd](https://github.com/nogibjj/IDS706_Template_KM632/actions/workflows/python.yml/badge.svg)](https://github.com/nogibjj/IDS706_Template_KM632/actions/workflows/python.yml)
+[![cicd](https://github.com/nogibjj/IDS706_Week4_KM632/actions/workflows/python.yml/badge.svg)](https://github.com/nogibjj/IDS706_Week4_KM632/actions/workflows/python.yml)
 
 ## MATRIX Testing: 
 
